@@ -7,3 +7,6 @@ do
 done
 
 echo "The script is finished running, goodbye!"
+
+# Single quotations does not take any variables into consideration.
+# Double quotations do take variable into consideration.
